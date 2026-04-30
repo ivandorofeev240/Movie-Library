@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import json
 import os
 
-# Название файла для сохранения данных
+#Название файла для сохранения данных
 JSON_FILE = 'movies.json'
 
 # Загрузка данных из файла
